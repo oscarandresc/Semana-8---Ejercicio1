@@ -13,8 +13,20 @@ MonoBehaviour:
   m_Name: placeholder_convo Shared Data
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
   m_TableCollectionName: placeholder_convo
-  m_TableCollectionNameGuidString: 00000000000000000000000000000000
-  m_Entries: []
+  m_TableCollectionNameGuidString: f7c478919caac5f4a8d8723293e62808
+  m_Entries:
+  - m_Id: 20630724608
+    m_Key: test-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23138918400
+    m_Key: test-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26704076800
+    m_Key: test-3
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

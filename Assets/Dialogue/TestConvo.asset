@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9382aaa14033de646bfaf623a40852df, type: 3}
+  m_Name: TestConvo
+  m_EditorClassIdentifier: Assembly-CSharp::Convo
+  tableName: placeholder_convo
+  lines:
+  - speakerName: Test 1
+    localKey: test-1
+    portrait:
+      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - speakerName: Test 2
+    localKey: test-2
+    portrait:
+      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - speakerName: Secret Test
+    localKey: test-3
+    portrait:
+      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 1
