@@ -28,6 +28,7 @@ MonoBehaviour:
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
+    choices: []
   - speakerName: Test 2
     localKey: test-2
     portraitSprite:
@@ -37,11 +38,12 @@ MonoBehaviour:
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
     portraitModel:
-      m_AssetGUID: 
+      m_AssetGUID: a241e0963f01ec6499404bb095b86192
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
+    choices: []
   - speakerName: Secret Test
     localKey: test-3
     portraitSprite:
@@ -56,3 +58,9 @@ MonoBehaviour:
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
+    choices:
+    - choiceText: a
+      nextConvo: {fileID: 0}
+    - choiceText: b
+      nextConvo: {fileID: 0}
+  nextConvo: {fileID: 0}

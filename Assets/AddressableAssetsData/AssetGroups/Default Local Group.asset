@@ -20,6 +20,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a241e0963f01ec6499404bb095b86192
+    m_Address: Assets/Placeholders/models/ZombieMale_C_joined 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 99ed82b6d271a0f41b9bb5fe81bce23f, type: 2}
   m_SchemaSet:

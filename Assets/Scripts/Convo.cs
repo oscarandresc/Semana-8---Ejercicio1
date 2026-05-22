@@ -6,4 +6,5 @@ public class Convo : ScriptableObject
 {
     public string tableName;
     public List<DialogueLine> lines;
+    public Convo nextConvo;
 }
