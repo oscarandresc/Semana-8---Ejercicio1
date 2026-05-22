@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: placeholder_convo_es
+  m_Name: convo_es
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
   m_LocaleId:
     m_Code: es
@@ -194,7 +194,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2244069840379904
-    m_Localized: "\"Gracias a Dios\", susurra el m\xE9dico."
+    m_Localized: '"Gracias a Dios"'
     m_Metadata:
       m_Items: []
   - m_Id: 2244290431410176
@@ -242,8 +242,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2245326898454528
-    m_Localized: "Una voz en la radio dice: \"Ap\xE1galo y los bloqueos de contenci\xF3n
-      se abrir\xE1n.\""
+    m_Localized: "\"Ap\xE1galo y los bloqueos de contenci\xF3n se abrir\xE1n.\""
     m_Metadata:
       m_Items: []
   - m_Id: 2245356921282560

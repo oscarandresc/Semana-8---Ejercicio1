@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9382aaa14033de646bfaf623a40852df, type: 3}
-  m_Name: TestConvo
+  m_Name: 4C
   m_EditorClassIdentifier: Assembly-CSharp::Convo
   tableName: convo
   lines:
-  - speakerName: Test 1
-    localKey: test-1
+  - speakerName: 
+    localKey: 4C-1
     portraitSprite:
-      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
@@ -29,8 +29,8 @@ MonoBehaviour:
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
     choices: []
-  - speakerName: Test 2
-    localKey: test-2
+  - speakerName: 
+    localKey: 4C-2
     portraitSprite:
       m_AssetGUID: 
       m_SubObjectName: 
@@ -43,24 +43,9 @@ MonoBehaviour:
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
-    choices: []
-  - speakerName: Secret Test
-    localKey: test-3
-    portraitSprite:
-      m_AssetGUID: 
-      m_SubObjectName: 
-      m_SubObjectType: 
-      m_SubObjectGUID: 
-      m_EditorAssetChanged: 0
-    portraitModel:
-      m_AssetGUID: 
-      m_SubObjectName: 
-      m_SubObjectType: 
-      m_SubObjectGUID: 
-      m_EditorAssetChanged: 0
     choices:
-    - localKey: 
-      nextConvo: {fileID: 0}
-    - localKey: 
-      nextConvo: {fileID: 0}
+    - localKey: 4C-A
+      nextConvo: {fileID: 11400000, guid: 2b5e7379485efe046b9a7962fb0ef648, type: 2}
+    - localKey: 4C-B
+      nextConvo: {fileID: 11400000, guid: fada9895351939544be08afba4c5cd3a, type: 2}
   nextConvo: {fileID: 0}

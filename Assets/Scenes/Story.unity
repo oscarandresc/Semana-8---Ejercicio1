@@ -1052,7 +1052,7 @@ MonoBehaviour:
   portraitImage: {fileID: 522229801}
   speakerText: {fileID: 1270941198}
   dialogueText: {fileID: 1725399645}
-  convo: {fileID: 11400000, guid: 32eb392ac183c4644a756d2e1aa8b897, type: 2}
+  convo: {fileID: 11400000, guid: 846afce7a8a223346b2573979eb533bb, type: 2}
   modelSpawnPoint: {fileID: 0}
   choiceButtonPrefab: {fileID: 3386884636807972770, guid: 6026d5e1892ca02419f162b2261b76e6, type: 3}
   choiceContainer: {fileID: 1681622452}

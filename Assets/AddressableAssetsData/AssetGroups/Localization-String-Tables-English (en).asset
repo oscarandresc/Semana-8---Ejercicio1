@@ -16,10 +16,11 @@ MonoBehaviour:
   m_GUID: d13766ab8be3ddc41b6f5b8d10ca29c3
   m_SerializeEntries:
   - m_GUID: aed6363ecc8d8f64891e2a8711f69dcb
-    m_Address: placeholder_convo_en
+    m_Address: convo_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
+    - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 99ed82b6d271a0f41b9bb5fe81bce23f, type: 2}
