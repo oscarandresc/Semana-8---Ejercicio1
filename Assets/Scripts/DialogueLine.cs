@@ -6,5 +6,6 @@ public class DialogueLine
 {
     public string speakerName;
     public string localKey;
-    public AssetReferenceSprite portrait;
+    public AssetReferenceSprite portraitSprite;
+    public AssetReferenceGameObject portraitModel;
 }

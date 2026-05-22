@@ -16,25 +16,43 @@ MonoBehaviour:
   lines:
   - speakerName: Test 1
     localKey: test-1
-    portrait:
+    portraitSprite:
       m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    portraitModel:
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
   - speakerName: Test 2
     localKey: test-2
-    portrait:
-      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+    portraitSprite:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+    portraitModel:
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
   - speakerName: Secret Test
     localKey: test-3
-    portrait:
-      m_AssetGUID: 956da5b5c4d5bcd419e64fc31e7e54f8
+    portraitSprite:
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
-      m_EditorAssetChanged: 1
+      m_EditorAssetChanged: 0
+    portraitModel:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
