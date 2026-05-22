@@ -3,6 +3,6 @@ using UnityEngine;
 [System.Serializable]
 public class DialogueChoice
 {
-    public string choiceText;
+    public string localKey;
     public Convo nextConvo;
 }

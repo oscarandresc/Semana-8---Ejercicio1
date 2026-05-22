@@ -89,7 +89,8 @@ public class DialogueController : MonoBehaviour
             GameObject buttonObj = Instantiate(choiceButtonPrefab, choiceContainer);
             spawnedButtons.Add(buttonObj);
             TMP_Text buttonText = buttonObj.GetComponentInChildren<TMP_Text>();
-            buttonText.text = choice.choiceText;
+            string choiceText = LocalizationSettings.StringDatabase.GetLocalizedString(convo.tableName, choice.localKey);
+            buttonText.text = choiceText;
             Button button = buttonObj.GetComponent<Button>();
             button.onClick.AddListener(() =>
             {

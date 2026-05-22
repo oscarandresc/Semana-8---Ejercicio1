@@ -30,6 +30,716 @@ MonoBehaviour:
     m_Localized: Que tal. Soy la secreta tercera prueba de texto.
     m_Metadata:
       m_Items: []
+  - m_Id: 2235392232251392
+    m_Localized: "La lluvia golpea tu visor mientras atraviesas el bosque jadeando
+      detr\xE1s de tu m\xE1scara de gas agrietada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240116704665600
+    m_Localized: "Tu escuadr\xF3n desapareci\xF3 hace veinte minutos, justo despu\xE9s
+      de que la est\xE1tica de la radio se convirtiera en gritos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240138292748288
+    m_Localized: "La mansi\xF3n se alza frente a ti entre la niebla. Tres pisos.
+      Madera podrida. Ventanas de vitrales rotas. Una \xFAnica luz encendida en el
+      segundo piso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240268467167232
+    m_Localized: "La reja principal est\xE1 abierta. Algo gime en el bosque detr\xE1s
+      de ti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240302982094848
+    m_Localized: "Aprietas el rifle y avanzas hacia la mansi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241499336007680
+    m_Localized: Entrar por la puerta principal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241521494515712
+    m_Localized: "Rodear la mansi\xF3n buscando otra entrada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241563680825344
+    m_Localized: "Las puertas principales se cierran de golpe detr\xE1s de ti. El
+      aire est\xE1 lleno de polvo. Un candelabro se balancea sobre tu cabeza a pesar
+      de que no hay viento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241660061736960
+    m_Localized: "El vest\xEDbulo es enorme. Retratos rasgados cubren las paredes.
+      Una escalera curva asciende hacia la oscuridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241709047013376
+    m_Localized: Entonces escuchas movimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241731499122688
+    m_Localized: "Un cad\xE1ver vestido como sirviente se arrastra desde detr\xE1s
+      del escritorio de recepci\xF3n, con la mand\xEDbula colgando y un ojo faltante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241766886465536
+    m_Localized: La criatura se lanza hacia ti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241804526149632
+    m_Localized: Dispararle inmediatamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241840718798848
+    m_Localized: Intentar esquivarlo y subir las escaleras.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242140494094336
+    m_Localized: "Rodeas la mansi\xF3n atravesando maleza y estatuas destruidas hasta
+      encontrar un viejo invernadero conectado al ala este."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242187973615616
+    m_Localized: "El techo de vidrio est\xE1 roto. La lluvia cae sobre plantas muertas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242218596229120
+    m_Localized: Cerca del centro del invernadero, un cuerpo con uniforme de fuerzas
+      especiales descansa apoyado contra una maceta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242266323214336
+    m_Localized: "Tu compa\xF1ero levanta la cabeza lentamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242304361357312
+    m_Localized: "\"Vinieron del s\xF3tano... no bajes ah\xED...\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242340885356544
+    m_Localized: La sangre atraviesa sus dedos desde una mordida en el abdomen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242383927304192
+    m_Localized: Quedarte para ayudarlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242414684135424
+    m_Localized: "Dejarlo atr\xE1s y continuar dentro de la mansi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242689088086016
+    m_Localized: "Le disparas tres veces al zombie sirviente. Los disparos retumban
+      por toda la mansi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242817937104896
+    m_Localized: 'Entras a una biblioteca gigantesca llena de estantes derrumbados
+      y muebles cubiertos de moho.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242847842492416
+    m_Localized: Una radio chisporrotea cerca.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242877043236864
+    m_Localized: "\"...superviviente... ala oeste... suministros m\xE9dicos...\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242940683411456
+    m_Localized: "Investigar la se\xF1al de radio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243167456845824
+    m_Localized: Buscar suministros en la biblioteca.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243254765477888
+    m_Localized: Esquivas al sirviente y corres escaleras arriba.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243309123657728
+    m_Localized: A mitad del corredor, el piso cruje bajo tus botas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243343319818240
+    m_Localized: "Una puerta se abre de golpe. Una mujer p\xE1lida con un camis\xF3n
+      desgarrado se arrastra hacia ti con las piernas destrozadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243383778074624
+    m_Localized: "M\xE1s adelante, luces de emergencia parpadean cerca de una sala
+      de seguridad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243419551293440
+    m_Localized: Abrirte paso hasta la sala de seguridad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243452879233024
+    m_Localized: "Refugiarte en una habitaci\xF3n cercana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243607951040512
+    m_Localized: Te arrodillas junto al soldado herido e intentas detener la hemorragia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243974352855040
+    m_Localized: "Momentos despu\xE9s, otro operativo de fuerzas especiales aparece
+      en la entrada del invernadero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244069840379904
+    m_Localized: "\"Gracias a Dios\", susurra el m\xE9dico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244290431410176
+    m_Localized: "El m\xE9dico explica que algunos supervivientes se refugiaron bajo
+      la mansi\xF3n, pero los laboratorios subterr\xE1neos fueron invadidos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244337491501056
+    m_Localized: De pronto, golpes violentos retumban desde el interior.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244405099487232
+    m_Localized: Escoltar al herido hacia el interior.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244450280529920
+    m_Localized: "Pedirle al m\xE9dico que espere mientras avanzas solo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244633613557760
+    m_Localized: "Dejas atr\xE1s al operativo herido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244697530556416
+    m_Localized: "Las puertas del invernadero conducen a un enorme comedor. La comida
+      podrida sigue sobre la mesa. Las velas parpadean por s\xED solas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244744620007424
+    m_Localized: "Al fondo de la habitaci\xF3n, algo se alimenta de un cad\xE1ver.
+      La criatura gira lentamente hacia ti. Su mand\xEDbula se abre de forma imposible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244849179811840
+    m_Localized: Abrir fuego.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244864396746752
+    m_Localized: Ocultarte bajo las mesas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245288390549504
+    m_Localized: "Sigues la se\xF1al de radio hasta el s\xF3tano. Descubres un generador
+      de emergencia alimentando toda la mansi\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245326898454528
+    m_Localized: "Una voz en la radio dice: \"Ap\xE1galo y los bloqueos de contenci\xF3n
+      se abrir\xE1n.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245356921282560
+    m_Localized: Pero el ruido atrajo una horda al exterior de la sala.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245392216350720
+    m_Localized: Apagar el generador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245414714597376
+    m_Localized: "Mantener la energ\xEDa activa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245450210992128
+    m_Localized: "Mientras buscas suministros, descubres una caja fuerte escondida
+      con documentos de investigaci\xF3n y una pistola de bengalas.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245482561658880
+    m_Localized: "Los archivos revelan que el brote comenz\xF3 en el laboratorio
+      de la mansi\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245518095802368
+    m_Localized: "Una explosi\xF3n sacude el edificio. Humo asciende desde abajo.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245550937202688
+    m_Localized: Tomar los documentos y escapar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245576698617856
+    m_Localized: "Descender al laboratorio subterr\xE1neo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245627697160192
+    m_Localized: "Te atrincheras dentro de la sala de seguridad. Los monitores todav\xEDa
+      funcionan.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245672177754112
+    m_Localized: "Decenas de infectados recorren los pasillos. Una de las c\xE1maras
+      muestra un helic\xF3ptero acerc\xE1ndose al techo de la mansi\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245703005888512
+    m_Localized: "Hacer se\xF1ales al helic\xF3ptero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245733636890624
+    m_Localized: Permanecer escondido hasta el amanecer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245766109192192
+    m_Localized: "La puerta de la habitaci\xF3n se bloquea detr\xE1s de ti. Un altavoz
+      oculto cobra vida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245855120711680
+    m_Localized: '"Sujeto localizado."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245875974791168
+    m_Localized: Gas comienza a salir de las ventilaciones del techo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245903028051968
+    m_Localized: "Descubres un pasadizo oculto detr\xE1s del armario."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245915833262080
+    m_Localized: Entrar al pasadizo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245937522008064
+    m_Localized: Romper la ventana e intentar escapar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246364292440064
+    m_Localized: "T\xFA, el m\xE9dico y el operativo herido descienden hacia una
+      cl\xEDnica bajo la mansi\xF3n.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246424682029056
+    m_Localized: "Dentro, varios supervivientes se esconden detr\xE1s de equipos
+      volcados. Pero el herido comienza a convulsionar.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246496064888832
+    m_Localized: "Se gira hacia los dem\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246529917116416
+    m_Localized: Dispararle antes de que se transforme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246553447161856
+    m_Localized: "Negarte a matar a tu compa\xF1ero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246591590162432
+    m_Localized: "Avanzas solo y descubres un ala quir\xFArgica llena de camillas
+      y mesas de operaci\xF3n ensangrentadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246648947269632
+    m_Localized: "Una voz autom\xE1tica repite: \"Inestabilidad de esp\xE9cimen detectada.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246674515746816
+    m_Localized: Una compuerta reforzada comienza a abrirse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246683793547264
+    m_Localized: Investigar la compuerta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246690911281152
+    m_Localized: Retirarte hacia el invernadero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249222492512256
+    m_Localized: "Vac\xEDas el cargador contra la criatura.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249281342791680
+    m_Localized: 'Sigue avanzando.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249313420828672
+    m_Localized: "El comedor estalla en caos cuando m\xE1s infectados irrumpen desde
+      la cocina.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249382165471232
+    m_Localized: Un enorme candelabro cuelga sobre ellos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249431343685632
+    m_Localized: Disparar al candelabro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249453342810112
+    m_Localized: Intentar abrirte paso disparando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249496879685632
+    m_Localized: "Te arrastras bajo las mesas mientras la criatura ronda la habitaci\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249518597791744
+    m_Localized: 'Descubres una trampilla oculta bajo el comedor.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249531096817664
+    m_Localized: "Debajo se escuchan m\xE1quinas funcionando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249540731133952
+    m_Localized: Descender por la trampilla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249586637791232
+    m_Localized: Esperar escondido hasta que la criatura se vaya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249703692427264
+    m_Localized: 'Desactivas el generador.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249765382250496
+    m_Localized: "La mansi\xF3n queda completamente a oscuras.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249792531980288
+    m_Localized: "Las puertas de contenci\xF3n se desbloquean.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249831799054336
+    m_Localized: 'Los infectados invaden los pasillos.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249849524183040
+    m_Localized: "Tu \xFAltima transmisi\xF3n termina en gritos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249860081246208
+    m_Localized: 'FINAL: Consumido por la Oscuridad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249978717134848
+    m_Localized: 'Mantienes el generador funcionando.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250006936412160
+    m_Localized: 'Las compuertas selladas permanecen cerradas.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250032202899456
+    m_Localized: "Al amanecer, helic\xF3pteros militares rodean la mansi\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250054491430912
+    m_Localized: Sobrevives el tiempo suficiente para guiarlos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250089685835776
+    m_Localized: "FINAL: Contenci\xF3n Exitosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250299791106048
+    m_Localized: "Escapas de la mansi\xF3n con los documentos.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250317411377152
+    m_Localized: "Semanas despu\xE9s, los archivos exponen a la corporaci\xF3n responsable
+      del brote.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250334012432384
+    m_Localized: El mundo finalmente conoce la verdad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250344561106944
+    m_Localized: 'FINAL: Filtrador'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250441457917952
+    m_Localized: 'Desciendes al laboratorio.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250464866328576
+    m_Localized: "Dentro de un tanque de contenci\xF3n, algo enorme abre los ojos.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250488941633536
+    m_Localized: "Lo \xFAltimo que escuchas es vidrio rompi\xE9ndose."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250502615064576
+    m_Localized: 'FINAL: Paciente Cero'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250601931988992
+    m_Localized: "El helic\xF3ptero detecta tu se\xF1al.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250634064551936
+    m_Localized: 'Alcanzas la azotea mientras los infectados suben por las escaleras.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250658219548672
+    m_Localized: El piloto te arrastra al interior segundos antes de despegar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250672241106944
+    m_Localized: "FINAL: \xDAltimo Superviviente Extra\xEDdo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250705493549056
+    m_Localized: 'Permanece escondido en la sala de seguridad.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250782425473024
+    m_Localized: "Al amanecer, la mansi\xF3n est\xE1 en silencio.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250796132458496
+    m_Localized: 'Demasiado silencio.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250820090322944
+    m_Localized: "Cuando finalmente abres la puerta, el corredor est\xE1 vac\xEDo,
+      pero las paredes est\xE1n cubiertas de sangre fresca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250857990053888
+    m_Localized: 'FINAL: Algo Sigue Vivo'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251055931842560
+    m_Localized: "El pasadizo conduce a t\xFAneles olvidados bajo la mansi\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251084159508480
+    m_Localized: "Sales varios kil\xF3metros m\xE1s all\xE1 del bosque.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251109916729344
+    m_Localized: "Detr\xE1s de ti, la mansi\xF3n explota en llamas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251122268954624
+    m_Localized: "FINAL: Escapaste de la Mansi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251185149960192
+    m_Localized: 'Rompes la ventana y saltas hacia la tormenta.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251219471949824
+    m_Localized: "La ca\xEDda rompe tu pierna.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251239495557120
+    m_Localized: En la oscuridad, docenas de figuras comienzan a acercarse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251250975367168
+    m_Localized: 'FINAL: Devorado Afuera'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251339982692352
+    m_Localized: "Disparas contra tu compa\xF1ero antes de que la infecci\xF3n lo
+      transforme.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251362740985856
+    m_Localized: 'Los supervivientes te observan en silencio.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251388481429504
+    m_Localized: "El m\xE9dico asiente lentamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251427635257344
+    m_Localized: 'FINAL: Sacrificio Necesario'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251501060743168
+    m_Localized: "Dudas. Segundos despu\xE9s, tu compa\xF1ero se transforma y ataca
+      el refugio.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251572577820672
+    m_Localized: "La cl\xEDnica subterr\xE1nea se convierte en una masacre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251583743057920
+    m_Localized: 'FINAL: Dudar es Perder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251664567296000
+    m_Localized: 'La compuerta revela una criatura experimental gigantesca encadenada
+      a la pared.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251715771359232
+    m_Localized: 'Se libera antes de que puedas reaccionar. Tus disparos apenas la
+      ralentizan.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251741021069312
+    m_Localized: 'FINAL: Cazador Liberado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251779235373056
+    m_Localized: "Regresas al invernadero. El m\xE9dico ha desaparecido.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251824445775872
+    m_Localized: Solo quedan rastros de sangre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251861103992832
+    m_Localized: Afuera comienza a amanecer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251872684466176
+    m_Localized: 'FINAL: Abandonado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251934332346368
+    m_Localized: 'Disparas a la cadena del candelabro.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251971703595008
+    m_Localized: 'La enorme estructura cae sobre los infectados.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251985221836800
+    m_Localized: El fuego se extiende por el comedor mientras escapas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251993497198592
+    m_Localized: 'FINAL: Tabula Rasa'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252065223991296
+    m_Localized: 'Te lanzas contra la horda disparando desesperadamente.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252108211412992
+    m_Localized: 'Los infectados te superan en segundos.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252129371676672
+    m_Localized: "Tu radio contin\xFAa transmitiendo est\xE1tica mucho despu\xE9s
+      de tu ca\xEDda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252141258334208
+    m_Localized: "FINAL: \xDAltimo Esfuerzo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252257100816384
+    m_Localized: "La trampilla conduce al n\xFAcleo energ\xE9tico de la mansi\xF3n.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252297563267072
+    m_Localized: "Descubres que el brote fue causado por experimentos de bioenerg\xEDa.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252315984650240
+    m_Localized: "Activas la autodestrucci\xF3n y huyes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252330266255360
+    m_Localized: "FINAL: Qu\xE9malo Todo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252435270656000
+    m_Localized: "Permanece oculto durante horas bajo las mesas. La mansi\xF3n queda
+      en silencio.\n\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252471735934976
+    m_Localized: 'Finalmente el hambre te obliga a moverte.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252489184239616
+    m_Localized: "La criatura sigue esper\xE1ndote.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252500160733184
+    m_Localized: 'FINAL: Cazado por Siempre'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

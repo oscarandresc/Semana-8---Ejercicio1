@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 76d264b753f7b6046814432ac01084eb
   m_SerializeEntries:
+  - m_GUID: 8d7a62a759a392544950225e1ca339d3
+    m_Address: Assets/Sprites/Scene.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 956da5b5c4d5bcd419e64fc31e7e54f8
     m_Address: Assets/Placeholders/guy.png
     m_ReadOnly: 0
@@ -22,6 +27,16 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a241e0963f01ec6499404bb095b86192
     m_Address: Assets/Placeholders/models/ZombieMale_C_joined 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c666e2edd96fffd4391a23fad4fecc1e
+    m_Address: Assets/Sprites/medic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f842a4dcf7b041045aae56583b809eb6
+    m_Address: Assets/Sprites/survivor.png
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -30,6 +30,709 @@ MonoBehaviour:
     m_Localized: Sup. I'm the secret third text test.
     m_Metadata:
       m_Items: []
+  - m_Id: 2235392232251392
+    m_Localized: Rain lashes against your visor as you stumble through the forest
+      line, breathing hard through a cracked gas mask filter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240116704665600
+    m_Localized: Your squad vanished twenty minutes ago after the radio static turned
+      into screaming.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240138292748288
+    m_Localized: The mansion rises ahead through the fog. Three stories. Rotting
+      wood. Broken stained-glass windows. One dim light still glowing upstairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240268467167232
+    m_Localized: The front gate hangs open. Somewhere behind you, something groans
+      in the woods.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240302982094848
+    m_Localized: You tighten your grip on the rifle and step toward the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241499336007680
+    m_Localized: Enter through the front door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241521494515712
+    m_Localized: Circle around to find another entrance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241563680825344
+    m_Localized: The front doors slam shut behind you. Dust hangs thick in the air.
+      A chandelier sways overhead despite the lack of wind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241660061736960
+    m_Localized: The mansion lobby is enormous. Torn portraits line the walls. A
+      staircase curves upward into darkness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241709047013376
+    m_Localized: Then you hear movement.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241731499122688
+    m_Localized: A corpse in a servant uniform drags itself out from behind the reception
+      desk, jaw hanging loose, one eye missing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241766886465536
+    m_Localized: It lunges.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241804526149632
+    m_Localized: Shoot it immediately.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2241840718798848
+    m_Localized: Try to avoid it and head upstairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242140494094336
+    m_Localized: You circle the mansion through knee-high weeds and shattered statues
+      until you find an old greenhouse attached to the east wing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242187973615616
+    m_Localized: The glass ceiling is broken. Rainwater drips onto dead plants.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242218596229120
+    m_Localized: Near the center of the greenhouse, a body in spec ops gear leans
+      against a planter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242266323214336
+    m_Localized: Your ally lifts his head weakly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242304361357312
+    m_Localized: '"They came from the basement... don''t go down there..."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242340885356544
+    m_Localized: Blood pours through his fingers from a bite wound on his stomach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242383927304192
+    m_Localized: Stay and help him.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242414684135424
+    m_Localized: Leave him and continue into the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242689088086016
+    m_Localized: You put three rounds into the servant's skull. The gunshots echo
+      through the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242817937104896
+    m_Localized: You enter a massive library filled with collapsed bookshelves and
+      mold-covered furniture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242847842492416
+    m_Localized: A radio crackles nearby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242877043236864
+    m_Localized: '"...survivor... west wing... medical supplies..."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242940683411456
+    m_Localized: Investigate the radio signal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243167456845824
+    m_Localized: Search the library for supplies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243254765477888
+    m_Localized: You avoid the servant and sprint upstairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243309123657728
+    m_Localized: Halfway down the corridor, the floorboards creak under your boots.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243343319818240
+    m_Localized: A door suddenly opens. A pale woman in a torn nightgown crawls out,
+      dragging broken legs behind her.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243383778074624
+    m_Localized: Further down the hallway, you spot emergency lights flickering near
+      a security room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243419551293440
+    m_Localized: Fight through to the security room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243452879233024
+    m_Localized: Retreat into a nearby bedroom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243607951040512
+    m_Localized: You kneel beside your wounded ally and apply pressure to the wound.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243974352855040
+    m_Localized: Moments later, another spec ops operative emerges from the greenhouse
+      doorway. Medic insignia. Shotgun. Exhausted expression.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244069840379904
+    m_Localized: '"Thank God," the medic whispers.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244290431410176
+    m_Localized: He explains that survivors regrouped somewhere beneath the mansion,
+      but the underground labs have been overrun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244337491501056
+    m_Localized: Suddenly, pounding echoes from inside the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244405099487232
+    m_Localized: Escort the wounded ally deeper inside.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244450280529920
+    m_Localized: Tell the medic to stay while you scout ahead alone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244633613557760
+    m_Localized: You leave the wounded operative behind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244697530556416
+    m_Localized: The greenhouse doors lead into a massive dining hall. Rotting food
+      still covers the table. Candles flicker by themselves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244744620007424
+    m_Localized: At the far end of the room, something feeds on a corpse. It slowly
+      turns toward you, Its jaw split unnaturally wide.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244849179811840
+    m_Localized: Open fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2244864396746752
+    m_Localized: Hide beneath the serving tables.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245288390549504
+    m_Localized: Following the radio signal leads you into the mansion basement.
+      You discover an emergency generator powering the entire building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245326898454528
+    m_Localized: 'A voice over the radio says: "Shut it down and the containment
+      locks will open."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245356921282560
+    m_Localized: But the noise has attracted a horde outside the room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245392216350720
+    m_Localized: Shut down the generator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245414714597376
+    m_Localized: Keep the power running.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245450210992128
+    m_Localized: Searching the library reveals a hidden safe containing research
+      notes and a flare gun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245482561658880
+    m_Localized: The documents reveal the outbreak began inside the mansion laboratory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245518095802368
+    m_Localized: An explosion suddenly rocks the building. Smoke rises from below.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245550937202688
+    m_Localized: Take the research and escape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245576698617856
+    m_Localized: Head into the basement laboratory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245627697160192
+    m_Localized: You barricade yourself inside the security room. The monitors still
+      work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245672177754112
+    m_Localized: You see dozens of infected roaming the halls. One camera reveals
+      an extraction helicopter approaching the mansion roof.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245703005888512
+    m_Localized: Signal the helicopter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245733636890624
+    m_Localized: Stay hidden until morning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245766109192192
+    m_Localized: The bedroom door locks behind you. A hidden speaker crackles to
+      life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245855120711680
+    m_Localized: '"Subject located."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245875974791168
+    m_Localized: Gas pours into the room through ceiling vents.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245903028051968
+    m_Localized: You find a hidden passage behind the wardrobe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245915833262080
+    m_Localized: Enter the hidden passage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2245937522008064
+    m_Localized: Try to break the window and escape outside.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246364292440064
+    m_Localized: You, the medic, and the wounded operative descend into an underground
+      clinic beneath the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246424682029056
+    m_Localized: Inside are survivors hiding behind overturned equipment, but the
+      wounded operative begins convulsing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246496064888832
+    m_Localized: He turns toward the others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246529917116416
+    m_Localized: Put him down before he transforms.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246553447161856
+    m_Localized: Refuse to shoot your teammate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246591590162432
+    m_Localized: You scout ahead alone and discover a surgical wing filled with restraint
+      chairs and blood-stained operating tables.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246648947269632
+    m_Localized: 'An automated voice repeats: "Specimen instability detected."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246674515746816
+    m_Localized: A reinforced blast door begins opening nearby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246683793547264
+    m_Localized: Investigate the opening blast door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246690911281152
+    m_Localized: Retreat back to the greenhouse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249222492512256
+    m_Localized: You unload your rifle into the creature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249281342791680
+    m_Localized: It keeps moving.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249313420828672
+    m_Localized: The dining hall erupts into chaos as more infected burst through
+      the kitchen doors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249382165471232
+    m_Localized: A chandelier hangs directly above them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249431343685632
+    m_Localized: Shoot the chandelier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249453342810112
+    m_Localized: Attempt to fight through the horde.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249496879685632
+    m_Localized: You crawl beneath the serving tables while the creature stalks the
+      room above.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249518597791744
+    m_Localized: You discover a hidden trapdoor leading beneath the dining hall.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249531096817664
+    m_Localized: The sounds of machinery echo below.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249540731133952
+    m_Localized: Descend through the trapdoor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249586637791232
+    m_Localized: Remain hidden until the creature leaves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249703692427264
+    m_Localized: You shut down the generator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249765382250496
+    m_Localized: The mansion plunges into darkness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249792531980288
+    m_Localized: Containment doors unlock across the basement.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249831799054336
+    m_Localized: 'The infected pour into the halls.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249849524183040
+    m_Localized: Your final radio transmission cuts off in screams.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249860081246208
+    m_Localized: 'ENDING: Consumed in the Dark'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249978717134848
+    m_Localized: You leave the generator running.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250006936412160
+    m_Localized: The sealed doors remain locked.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250032202899456
+    m_Localized: At dawn, military helicopters surround the mansion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250054491430912
+    m_Localized: 'You survive long enough to guide them inside.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250089685835776
+    m_Localized: 'ENDING: Containment Successful'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250299791106048
+    m_Localized: You escape the mansion with the research documents.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250317411377152
+    m_Localized: Weeks later, the files expose the corporation responsible for the
+      outbreak.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250334012432384
+    m_Localized: The world finally learns the truth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250344561106944
+    m_Localized: 'ENDING: Whistleblower'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250441457917952
+    m_Localized: 'You descend into the laboratory.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250464866328576
+    m_Localized: 'Inside a containment tube, something enormous opens its eyes.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250488941633536
+    m_Localized: The last thing you hear is shattered glass.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250502615064576
+    m_Localized: 'ENDING: Patient Zero'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250601931988992
+    m_Localized: 'The helicopter sees your signal.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250634064551936
+    m_Localized: 'You reach the rooftop while infected flood the stairs behind you.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250658219548672
+    m_Localized: The pilot drags you aboard seconds before takeoff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250672241106944
+    m_Localized: 'ENDING: Last Survivor Extracted'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250705493549056
+    m_Localized: 'You remain hidden in the security room.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250782425473024
+    m_Localized: 'By morning, the mansion is silent.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250796132458496
+    m_Localized: 'Too silent.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250820090322944
+    m_Localized: 'When you finally open the door, the corridor is empty, but fresh
+      blood covers the walls.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251055931842560
+    m_Localized: 'The hidden passage leads into forgotten tunnels beneath the mansion.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2250857990053888
+    m_Localized: 'ENDING: Something Still Lives'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251084159508480
+    m_Localized: 'You emerge miles away near the forest edge.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251109916729344
+    m_Localized: Behind you, the mansion erupts into flames.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251122268954624
+    m_Localized: Escaped the Estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251185149960192
+    m_Localized: 'You smash through the window and leap into the storm.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251219471949824
+    m_Localized: 'The fall breaks your leg.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251239495557120
+    m_Localized: In the darkness below, dozens of shapes begin moving toward you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251250975367168
+    m_Localized: 'ENDING: Swarmed Outside'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251339982692352
+    m_Localized: 'You shoot your teammate before the infection takes him.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251362740985856
+    m_Localized: 'The survivors stare at you in silence.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251388481429504
+    m_Localized: The medic quietly thanks you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251427635257344
+    m_Localized: 'ENDING: Necessary Sacrifice'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251501060743168
+    m_Localized: 'You hesitate. Seconds later, your teammate transforms and attacks
+      the shelter.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251572577820672
+    m_Localized: The underground clinic becomes a slaughterhouse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251583743057920
+    m_Localized: 'ENDING: Hesitation Is Defeat'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251664567296000
+    m_Localized: The blast door reveals a towering experimental creature chained
+      to the wall.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251715771359232
+    m_Localized: It tears free before you can react. Your rifle barely slows it down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251741021069312
+    m_Localized: 'ENDING: Hunter Unleashed'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251779235373056
+    m_Localized: You return to the greenhouse. The medic is gone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251824445775872
+    m_Localized: 'Only blood trails remain.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251861103992832
+    m_Localized: Outside, dawn begins to rise.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251872684466176
+    m_Localized: 'ENDING: Left Behind'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251934332346368
+    m_Localized: You shoot the chandelier chain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251971703595008
+    m_Localized: The massive fixture crashes down onto the infected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251985221836800
+    m_Localized: Fire spreads across the dining hall as you escape through the kitchen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2251993497198592
+    m_Localized: 'ENDING: Scorched Earth'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252065223991296
+    m_Localized: You charge into the horde firing wildly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252108211412992
+    m_Localized: 'The infected overwhelm you within seconds.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252129371676672
+    m_Localized: Your radio continues transmitting static long after you fall.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252141258334208
+    m_Localized: 'ENDING: Final Stand'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252257100816384
+    m_Localized: 'The trapdoor leads into the mansion reactor core.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252297563267072
+    m_Localized: 'You discover the outbreak was powered by experimental bio-energy
+      research.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252315984650240
+    m_Localized: You trigger a self-destruct sequence and flee.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252330266255360
+    m_Localized: 'ENDING: Burn it All Down'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252435270656000
+    m_Localized: You remain hidden for hours beneath the tables. The mansion grows
+      silent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252471735934976
+    m_Localized: Eventually, hunger and exhaustion force you to move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252489184239616
+    m_Localized: The creature is waiting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252500160733184
+    m_Localized: 'ENDING: Endless Hunt'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
